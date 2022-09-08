@@ -1,0 +1,7 @@
+**/.idea/
+**/__pycache__/
+**/nilearn_cache/
+**/venv/
+**/*.sql/
+**/dask-worker-space/
+**/.ipynb_checkpoints/

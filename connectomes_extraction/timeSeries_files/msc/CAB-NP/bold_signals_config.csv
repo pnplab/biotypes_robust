@@ -1,0 +1,3 @@
+,MSC05,MSC06,MSC02,MSC01,MSC10,MSC04,MSC07,MSC03,MSC08,MSC09
+path,timeSeries_files/msc/CAB-NP/MSC05_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC06_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC02_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC01_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC10_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC04_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC07_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC03_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC08_boldsignals.csv,timeSeries_files/msc/CAB-NP/MSC09_boldsignals.csv
+nlevels,3,3,3,3,3,3,3,3,3,3
